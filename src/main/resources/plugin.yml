@@ -1,0 +1,4 @@
+name: ShareAdvancements
+version: '${project.version}'
+main: com.comorichico.shareadvancements.ShareAdvancements
+api-version: '1.20'
