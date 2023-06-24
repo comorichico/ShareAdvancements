@@ -63,7 +63,7 @@ public class AdvancementData {
         } else {
             Stream.concat(this.remainingCriteria.stream(),remainingCriteria.stream())
                     .distinct()
-                    .collect(Collectors.toList());;
+                    .collect(Collectors.toList());
         }
     }
 
